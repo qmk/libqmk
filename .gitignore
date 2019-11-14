@@ -1,0 +1,3 @@
+libqmk.a
+*.o
+.build/
